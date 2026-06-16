@@ -24,19 +24,11 @@
     "name": "FM Rainbow"
   },
   {
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
-    "name": "AIR Raagam"
-  },
-  {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8",
     "name": "AIR Jabalpur"
   },
   {
     "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
     "name": "AIR News 24/7"
-  },
-  {
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio003_Auto.m3u8",
-    "name": "AIR Aaradhna"
   }
 ]
