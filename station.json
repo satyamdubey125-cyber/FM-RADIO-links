@@ -1,34 +1,53 @@
 [
   {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8",
-    "name": "AIR Bhopal"
+    "name": "AIR Bhopal",
+    "hindiName": "आकाशवाणी भोपाल"
   },
   {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/chunklist.m3u8",
-    "name": "AIR Sagar"
+    "name": "AIR Sagar",
+    "hindiName": "आकाशवाणी सागर"
   },
   {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/chunklist.m3u8",
-    "name": "AIR Chhatarpur"
+    "name": "AIR Chhatarpur",
+    "hindiName": "आकाशवाणी छतरपुर"
   },
   {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8",
-    "name": "Vividh Bharati"
+    "name": "Vividh Bharati",
+    "hindiName": "विविध भारती"
   },
   {
     "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
-    "name": "FM Gold"
+    "name": "FM Gold",
+    "hindiName": "एफएम गोल्ड"
   },
   {
     "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
-    "name": "FM Rainbow"
+    "name": "FM Rainbow",
+    "hindiName": "एफएम रेनबो"
+  },
+  {
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+    "name": "AIR Raagam",
+    "hindiName": "आकाशवाणी रागम"
   },
   {
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8",
-    "name": "AIR Jabalpur"
+    "name": "AIR Jabalpur",
+    "hindiName": "आकाशवाणी जबलपुर"
   },
   {
     "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
-    "name": "AIR News 24/7"
+    "name": "AIR News 24/7",
+    "hindiName": "आकाशवाणी समाचार 24/7"
+  },
+  {
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio003_Auto.m3u8",
+    "name": "AIR Aaradhna",
+    "hindiName": "आकाशवाणी आराधना"
   }
 ]
+```
