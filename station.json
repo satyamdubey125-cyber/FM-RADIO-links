@@ -1,42 +1,1357 @@
 [
-  {
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8",
-    "name": "AIR Bhopal",
-    "hindiName": "आकाशवाणी भोपाल"
-  },
-  {
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/chunklist.m3u8",
-    "name": "AIR Sagar",
-    "hindiName": "आकाशवाणी सागर"
-  },
-  {
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/chunklist.m3u8",
-    "name": "AIR Chhatarpur",
-    "hindiName": "आकाशवाणी छतरपुर"
-  },
-  {
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8",
-    "name": "Vividh Bharati",
-    "hindiName": "विविध भारती"
-  },
-  {
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
-    "name": "FM Gold",
-    "hindiName": "एफएम गोल्ड"
-  },
-  {
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
-    "name": "FM Rainbow",
-    "hindiName": "एफएम रेनबो"
-  },
-  {
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8",
-    "name": "AIR Jabalpur",
-    "hindiName": "आकाशवाणी जबलपुर"
-  },
-  {
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
-    "name": "AIR News 24/7",
-    "hindiName": "आकाशवाणी समाचार 24/7"
-  }
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
+        "name": "Akashvani Kanpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
+        "name": "FM Rainbow Kanpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+        "name": "Akashvani Lucknow",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+        "name": "FM Rainbow Lucknow",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+        "name": "Akashvani Mathura",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+        "name": "Akashvani Najibabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
+        "name": "Akashvani Obra",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+        "name": "Akashvani Rampur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+        "name": "Akashvani Varanasi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+        "name": "Akashvani Almora",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+        "name": "Akashvani Dehradun",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
+        "name": "Akashvani Pauri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+        "name": "Akashvani Bangla",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8",
+        "name": "Akashvani Kolkata Geetanjali",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8",
+        "name": "Akashvani Kolkata Sanchayita",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8",
+        "name": "FM Gold Kolkata",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8",
+        "name": "FM Rainbow Kolkata",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
+        "name": "vbs Kolkata",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8",
+        "name": "Akashvani Kurseong",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+        "name": "Akashvani Murshidabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8",
+        "name": "Akashvani Shantiniketan",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8",
+        "name": "Akashvani Maitree",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
+        "name": "Akashvani Siliguri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8",
+        "name": "Akashvani Gujarati",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8",
+        "name": "Akashvani Kokrajhar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8",
+        "name": "Akashvani Aaradhana",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+        "name": "FM Rainbow Chennai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+        "name": "Live News 24x7",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+        "name": "Akasvani Marathi Mumbai Ashmita",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+        "name": "Akashvani Punjabi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+        "name": "Raagam",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+        "name": "FM Gold Delhi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+        "name": "FM Rainbow Delhi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+        "name": "Akashvani Kerla",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+        "name": "Akashvani Tamil Nadu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+        "name": "Vividh Bharati",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+        "name": "Akashvani Aadilabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8",
+        "name": "Akashvani Delhi Indraprastha",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8",
+        "name": "VBS Delhi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+        "name": "Akashvani Port Blair",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+        "name": "Akashvani Anantapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+        "name": "Akashvani Kadapa",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+        "name": "Akashvani Kurnool",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+        "name": "Akashvani Markapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+        "name": "FM Simhapuri Nellore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+        "name": "Akashvani Tirupati",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+        "name": "Akasvani Andhra Pradesh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+        "name": "FM Rainbow Vijayawada",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+        "name": "VB Telugu Vijayawada",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+        "name": "Akashvani Visakhapatnam",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+        "name": "FM Rainbow Visakhapatnam",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8",
+        "name": "Akashvani Itanagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8",
+        "name": "FM Arun Itanagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8",
+        "name": "Akashvani Pasighat",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8",
+        "name": "Akashvani Tawang",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8",
+        "name": "Akashvani Tezu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+        "name": "Akashvani Dibrugarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8",
+        "name": "Akashvani Diphu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+        "name": "Akashvani Guwahati Mahabahu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8",
+        "name": "Akashvani Guwahati Pragjyotishpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+        "name": "Akashvani Haflong",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8",
+        "name": "Akashvani Jorhat",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8",
+        "name": "Akashvani Nagaon",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8",
+        "name": "Akashvani Silchar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8",
+        "name": "Akashvani Tezpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8",
+        "name": "Akashvani Bhagalpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
+        "name": "Akashvani Darbhanga",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
+        "name": "Akashvani Patna",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8",
+        "name": "FM Rainbow Patna",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8",
+        "name": "VBS Patna",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
+        "name": "Akashvani Purnia Bihar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+        "name": "Akashvani Sasaram",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+        "name": "Akashvani Chandigarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+        "name": "Akashvani Ambikapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+        "name": "Akashvani Bilaspur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+        "name": "Akashvani Jagdalpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+        "name": "Akashvani Raigarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+        "name": "Akashvani Chhattisgarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8",
+        "name": "VBS Raipur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8",
+        "name": "Akashvani Saraipali",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
+        "name": "Akashvani Daman",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8",
+        "name": "Akashvani Mahadei Panaji",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8",
+        "name": "VBS Panaji",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
+        "name": "VBS Ahmedabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
+        "name": "Akashvani Ahwa",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8",
+        "name": "Akashvani Bhuj",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+        "name": "Akashvani Godhra",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+        "name": "Akashvani Himmatnagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8",
+        "name": "Akashvani Rajkot",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8",
+        "name": "VBS Rajkot",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+        "name": "Akashvani Surat",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+        "name": "Akashvani Vadodara",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+        "name": "Akashvani Hisar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8",
+        "name": "Akashvani Kurukshetra",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
+        "name": "Akashvani Rohtak",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+        "name": "Akashvani Dharamshala",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8",
+        "name": "Akashvani Hamirpur FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
+        "name": "Akashvani Shimla",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+        "name": "Akashvani Shimla FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8",
+        "name": "Akashvani Bhaderwah",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
+        "name": "Akashvani Jammu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+        "name": "Akashvani Kathua",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+        "name": "Akashvani Srinagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+        "name": "Akashvani Chaibasa",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8",
+        "name": "Akashvani Daltonganj",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
+        "name": "Akashvani Hazaribagh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
+        "name": "Akashvani Jamshedpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8",
+        "name": "VBS Jamshedpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+        "name": "Akashvani Ranchi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8",
+        "name": "FM Rainbow Ranchi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8",
+        "name": "VBS Ranchi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+        "name": "Akashvani Bellari",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+        "name": "Akashvani Karnataka",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+        "name": "Amrutvarshini",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+        "name": "Rainbow Kannada Kaamanbilu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+        "name": "VB KANNADA",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8",
+        "name": "Akashvani Bhadravati",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+        "name": "Akashvani Bijapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8",
+        "name": "Akashvani Chitradurga",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+        "name": "Akashvani Dharwad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+        "name": "Akashvani Kalaburgi (Gulbarga)",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+        "name": "Akashvani Hassan",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+        "name": "Akashvani Hospet",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8",
+        "name": "Akashvani Karwar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+        "name": "Akashvani Mysuru",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
+        "name": "Akashvani Mangalore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+        "name": "Akashvani Madikeri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+        "name": "Akashvani Raichur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8",
+        "name": "Akashvani Devikulam",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+        "name": "Akashvani Kannur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+        "name": "FM Rainbow Kochi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+        "name": "Akashvani Kochi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+        "name": "Akashvani Calicut",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+        "name": "Akashvani Kozhikode Real FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
+        "name": "Akashvani Manjeri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+        "name": "Akashvani Trissur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+        "name": "VB MALAYALAM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
+        "name": "Akashvani Kargil",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+        "name": "Akashvani Leh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+        "name": "Akashvani Kavaratti",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+        "name": "Akashvani Balaghat",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+        "name": "Akashvani Betul",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+        "name": "Akashvani Bhopal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8",
+        "name": "VBS Bhopal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+        "name": "Akashvani Chhatarpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+        "name": "Akashvani Chhindwara",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
+        "name": "Akashvani Guna",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+        "name": "Akashvani Gwalior",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+        "name": "Akashvani Indore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8",
+        "name": "VBS Indore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+        "name": "Akashvani Jabalpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8",
+        "name": "Akashvani Jabalpur FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+        "name": "Akashvani Khandwa",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
+        "name": "Akashvani Rewa",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
+        "name": "Akashvani Sagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+        "name": "Akashvani Shahdol",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
+        "name": "Akashvani Shivpuri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8",
+        "name": "Akashvani Ahilyanagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
+        "name": "Akashvani Akola",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
+        "name": "Akashvani Amravati",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8",
+        "name": "Akashvani Chhatrapati Sambhaji Nagar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8",
+        "name": "Akashvani Beed",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
+        "name": "Akashvani Chandrapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+        "name": "Akashvani Dhule",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8",
+        "name": "Akashvani Jalgaon",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+        "name": "Akashvani Kolhapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+        "name": "FM Gold Mumbai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+        "name": "FM Rainbow Mumbai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
+        "name": "Sanvadita Mumbai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+        "name": "VBS Mumbai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+        "name": "VBS Nagpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+        "name": "Akashvani Nagpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+        "name": "Akashvani Nanded",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8",
+        "name": "Akashvani Nasik",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
+        "name": "Akashvani Dharashiv",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8",
+        "name": "Akashvani Parbhani",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+        "name": "Akashvani Pune",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+        "name": "Akashvani Pune FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8",
+        "name": "Akashvani Ratnagiri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
+        "name": "Akashvani Sindhudurg",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+        "name": "Akashvani Sangli",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
+        "name": "Akashvani Satara",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+        "name": "Akashvani Solapur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8",
+        "name": "Akashvani Yavatmal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
+        "name": "Akashvani Churachandpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8",
+        "name": "Akashvani Imphal Kangla",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8",
+        "name": "Akashvani Imphal Sangai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8",
+        "name": "Akashvani Jowai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+        "name": "Akashvani Shillong",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+        "name": "FM Jongphi Shillong",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+        "name": "Akashvani North East Livestream",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8",
+        "name": "Akashvani Tura",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
+        "name": "Akashvani Aizawl",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8",
+        "name": "FM Zowai Aizawl",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8",
+        "name": "Akashvani Lunglei",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8",
+        "name": "Akashvani Mokokchung",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+        "name": "Akashvani Kohima",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+        "name": "FM Tragopan Kohima",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+        "name": "Akashvani Baripada",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+        "name": "Akashvani Berhampur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
+        "name": "Akashvani Bhawanipatna",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+        "name": "Akashvani Balangir",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+        "name": "Akashvani Cuttack",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+        "name": "FM Rainbow Cuttack",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+        "name": "VBS Cuttack",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
+        "name": "Akashvani Jeypore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
+        "name": "Akashvani Joranda",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+        "name": "Akashvani Keonjhar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+        "name": "Akashvani Puri FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+        "name": "Akashvani Rourkela",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+        "name": "Akashvani Mahanadi Sambalpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+        "name": "Akashvani Sambalpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8",
+        "name": "Akashvani Karaikal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8",
+        "name": "Akashvani Puducherry",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8",
+        "name": "FM Rainbow Puducherry",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
+        "name": "Akashvani Bhatinda",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
+        "name": "FM Rainboww Jalandhar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+        "name": "Akashvani Patiala",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
+        "name": "Akashvani Alwar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+        "name": "Akashvani Banswara",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
+        "name": "Akashvani Barmer",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
+        "name": "Akashvani Bikaner",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
+        "name": "Akashvani Chittorgarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
+        "name": "Akashvani Churu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
+        "name": "Akashvani Jaipur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
+        "name": "VBS Jaipur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
+        "name": "Akashvani Jaisalmer",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
+        "name": "Akashvani Jhalawar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
+        "name": "Akashvani Jodhpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
+        "name": "Akashvani Jodhpur Sun City FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
+        "name": "Akashvani Kota",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
+        "name": "Akashvani Mount Abu",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
+        "name": "Akashvani Nagaur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
+        "name": "Akashvani Sawai Madhopur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
+        "name": "Akashvani Suratgarh",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
+        "name": "Akashvani Udaipur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
+        "name": "Akashvani Udaipur FM Lake CIty",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+        "name": "Akashvani Gangtok",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8",
+        "name": "FM Gold Chennai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8",
+        "name": "VB Tamil Chennai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8",
+        "name": "Akashvani Coimbatore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+        "name": "FM Rainbow Coimbatore",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8",
+        "name": "Akashvani Dharmapuri",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8",
+        "name": "Akashvani Kodaikanal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8",
+        "name": "Akashvani Madurai",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8",
+        "name": "FM Nagercoil Kumari ",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8",
+        "name": "Akashvani Ooty",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8",
+        "name": "Akashvani Tiruchirapalli ",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8",
+        "name": "Akashvani Tiruchirappalli FM",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8",
+        "name": "Akashvani Tirunelveli",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8",
+        "name": "FM RainbowTirunelveli ",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8",
+        "name": "Akashvani Tuticorin",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+        "name": "Akashvani Telangana",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+        "name": "FM Rainbow Hyderabad ",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+        "name": "VB:Telugu Hyderabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+        "name": "Akashvani Kothagudem",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+        "name": "Akashvani Nizamabad",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+        "name": "Akashvani Warangal",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
+        "name": "Akashvani Agartala",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
+        "name": "FM Ujjayanta Agartala",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8",
+        "name": "Akashvani Belonia",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8",
+        "name": "Akashvani Kailashahar",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+        "name": "Akashvani Agra",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+        "name": "Akashvani Prayagraj",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+        "name": "Akashvani Bareilly",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8",
+        "name": "Akashvani Ayodhya",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+        "name": "Akashvani Gorakhpur",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+        "name": "Akashvani Jhansi",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8",
+        "name": "KumbhVani",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8",
+        "name": "Akashvani Ujjain",
+        "hindiName": ""
+    },
+    {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio301/playlist.m3u8",
+        "name": "Akashvani Ziro",
+        "hindiName": ""
+    }
 ]
